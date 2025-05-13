@@ -42,8 +42,6 @@ The final file rename step may fail if the target file path is incorrect or the 
 
 ## 📁 File Structure
 
-Copy
-Edit
 .
 ├── delvin_yamoah/
 │ └── delvin_yamoah.txt
