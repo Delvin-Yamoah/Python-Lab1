@@ -29,10 +29,8 @@ pip install requests
 Run the script using Python:
 
 ```bash
-python script_name.py
+python delvinScript.py
 ```
-
-## Replace script_name.py with the actual name of your Python file.
 
 ## 🛠 Notes
 
