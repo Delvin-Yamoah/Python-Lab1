@@ -49,7 +49,3 @@ Edit
 │ └── delvin_yamoah.txt
 ├── script_name.py
 └── README.md
-
-```
-
-```
