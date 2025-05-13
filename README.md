@@ -22,40 +22,34 @@ Ensure Python 3 is installed. The script also uses the `requests` library, which
 
 ```bash
 pip install requests
-Usage
+```
+
+## Usage
+
 Run the script using Python:
 
-bash
-Copy
-Edit
+```bash
 python script_name.py
-Replace script_name.py with the actual name of your Python file.
+```
 
-Example Interaction
-text
-Copy
-Edit
-Directory 'delvin_yamoah' has been removed successfully.
-Directory: delvin_yamoah created.
-File successfully downloaded.
-File saved successfully.
-Describe what you have learned so far in a sentence: I learned how to manage files with Python.
-File successfully modified.
+## Replace script_name.py with the actual name of your Python file.
 
-You Entered: I learned how to manage files with Python.
-Last modified on: 2025-05-13 12:34:56
-🛠 Notes
+## 🛠 Notes
+
 The script overwrites the downloaded file with the user input and timestamp.
 
 The final file rename step may fail if the target file path is incorrect or the file doesn't exist. You may need to adjust the filename accordingly.
 
-📁 File Structure
+## 📁 File Structure
+
 Copy
 Edit
 .
 ├── delvin_yamoah/
-│   └── delvin_yamoah.txt
+│ └── delvin_yamoah.txt
 ├── script_name.py
 └── README.md
+
+```
 
 ```
